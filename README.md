@@ -5,4 +5,4 @@
 ![screencapture-localhost-5173-Template-2023-11-12-11_44_30](https://github.com/hadep275/TrendCharts/assets/65734173/c7654466-ad76-42be-8d0d-a49b74352dbd)
 
 
-[image](https://github.com/hadep275/TrendCharts/assets/65734173/6fd1ff72-7d7c-4b08-b78d-8f00a59aa05c)
+![image](https://github.com/hadep275/TrendCharts/assets/65734173/6fd1ff72-7d7c-4b08-b78d-8f00a59aa05c)
